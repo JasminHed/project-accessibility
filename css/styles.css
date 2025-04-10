@@ -1,19 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
 
-/* Base styles with accessibility considerations */
+/* Base colors*/
 :root {
-  --primary-color: #042778;
-  --background-color: rgb(213, 233, 250, 0.5);
-  --accent-color: #0073e6;
-  --selected-bg-color: #cce4ff;
+  --primary-color: #006064;
+  --background-color: rgba(255, 248, 225, 0.5);
+  --accent-color: #00897B;
+  --selected-bg-color: #B2DFDB;
   --white-color: white;
-  --error-color: #e74c3c;
-  --focus-outline-color: #00509e;
+  --error-color: #D32F2F;
+  --focus-outline-color: #00796B;
   --focus-outline: 2px solid var(--accent-color);
-  --text-color: #042778;
-  --border-color: #054fb9;
+  --text-color: #006064;
+  --border-color: #00796B;
   --transition-speed: 0.3s;
 }
+
 
 /* Box-sizing */
 *,
