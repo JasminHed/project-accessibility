@@ -3,7 +3,8 @@
 /* Base colors*/
 :root {
   --primary-color: #006064;
-  --background-color: rgba(255, 248, 225, 0.5);
+  --background-color: whitesmoke;
+  /*--background-color: rgba(255, 248, 225, 0.5);*/
   --accent-color: #00796B;
   --selected-bg-color: #B2DFDB;
   --white-color: white;
@@ -92,7 +93,7 @@ nav a {
 /* Header */
 #header {
   width: 100vw;
-  background-color: var(--primary-color);
+  background: #2C3E50;
   color: var(--white-color);
   padding: 2rem 0;
 
@@ -388,7 +389,7 @@ input[type="radio"]:focus-visible+label {
 /* Footer */
 .footer-content {
   width: 100vw;
-  background-color: var(--primary-color);
+  background-color: #2C3E50;
   color: var(--white-color);
   padding: 2rem 0;
   margin-top: 2rem;
@@ -399,9 +400,10 @@ footer nav ul {
   padding: 0.5rem 1rem;
   margin: 1rem 0;
   display: flex;
-  gap: 4rem;
+  gap: 5rem;
   justify-content: center;
-  background-color: var(--primary-color);
+  background-color: #2C3E50;
+  
 }
 
 nav a {
