@@ -1,39 +1,25 @@
-#Accessibility Quiz
+[![Frontend](https://img.shields.io/badge/Frontend-HTML%2CCSS%2CJS-orange?logo=javascript)](https://accessquiz.netlify.app/)
+[![Deployment](https://img.shields.io/badge/Deployment-Netlify-brightgreen?logo=netlify)](https://accessquiz.netlify.app/)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-Live Demo: https://accessquiz.netlify.app/
+# Accessibility Quiz
+**Live Demo:** [https://accessquiz.netlify.app](https://accessquiz.netlify.app/)  
 
-Overview
 An educational quiz application focused on web accessibility principles and inclusive design. This project was built with accessibility as a core requirement, teaching users about disability and how it affects web experiences. Creating this app deepened my understanding of accessible web development and the importance of building inclusive digital experiences for all users.
 
-Tech Stack
-Frontend: HTML5, CSS3, JavaScript (ES6+)
-Accessibility: ARIA labels, semantic HTML, keyboard navigation
-Layout: CSS Grid, Flexbox
-Deployment: Netlify
-Version Control: Git/GitHub
+## The Problem
+I wanted to create an interactive educational tool to **teach web accessibility principles**. The challenge was to make the quiz fully accessible for users with disabilities while keeping it engaging, informative, and responsive.
 
-Features
-Interactive quiz about web accessibility principles
-Fully keyboard navigable interface
-Screen reader optimized with proper ARIA labels
-Clear visual hierarchy and high contrast design
-Educational content about disability and inclusion
-Progress tracking through quiz sections
-Responsive design following accessibility guidelines
-Simple, clear interface that works for all users
+## View it Live
+- **Live Demo:** [https://accessquiz.netlify.app](https://accessquiz.netlify.app/)
 
-Setup Instructions
+## Installation / Setup Instructions
+
+# Clone the repo
 git clone [your-repo-url]
 cd accessibility-quiz
 
-Open in browser
+# Open in browser
 open index.html
-No installation needed - it's pure HTML, CSS, and JavaScript
 
-What I Learned
-Web accessibility standards (WCAG guidelines)
-Implementing ARIA labels and semantic HTML structure
-Designing for keyboard navigation and screen readers
-Creating inclusive user experiences for diverse abilities
-Testing accessibility with assistive technologies
-Building educational content that raises awareness about disability
+# No installation needed - pure HTML, CSS, and JavaScript
